@@ -101,7 +101,7 @@ Undo last
 
 | **Add Event** | **Delete Event** |  
 |---------------|------------------|  
-| Screenshot 2025-08-18 173412.png| <img width="267" height="65" alt="Screenshot 2025-08-18 061614" src="https://github.com/user-attachments/assets/9daa0643-7aa1-4bb0-9517-a4652e7235b9" />|  
+|[Screenshot 2025-08-18 173412.png](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/75372f70ceacdf544abf06b8f3848686b5987536/Screenshot%202025-08-18%20173412.png)| <img width="267" height="65" alt="Screenshot 2025-08-18 061614" src="https://github.com/user-attachments/assets/9daa0643-7aa1-4bb0-9517-a4652e7235b9" />|  
 
 | **View All Events** | **View Today’s Events** |  
 |----------------------|-------------------------|  
