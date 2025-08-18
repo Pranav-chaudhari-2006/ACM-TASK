@@ -52,7 +52,7 @@ You can view the full license text in the [LICENSE](./LICENSE) file.
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## 📸 Preview
- ![Admin Access]()
+ ![Admin Access](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/dcd2898a121704fb1c2c75dbb6860be4eb1a32b3/Screenshot%202025-08-18%20173314.png)
  ![Menu]()
  ![Add Event](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/59e861e9bb3ce634e324d5bc40a67d4f971edafa/Screenshot%202025-08-18%20173412.png)
  ![Edit Event]()
