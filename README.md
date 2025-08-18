@@ -101,7 +101,7 @@ Undo last
 
 | **Add Event** | **Delete Event** |  
 |---------------|------------------|  
-| <img width="352" height="472" alt="Screenshot 2025-08-18 060433" src="https://github.com/user-attachments/assets/eeaf2fd1-5416-481c-9e30-c5f8c15557b8" /> | <img width="267" height="65" alt="Screenshot 2025-08-18 061614" src="https://github.com/user-attachments/assets/9daa0643-7aa1-4bb0-9517-a4652e7235b9" />|  
+| | <img width="267" height="65" alt="Screenshot 2025-08-18 061614" src="https://github.com/user-attachments/assets/9daa0643-7aa1-4bb0-9517-a4652e7235b9" />|  
 
 | **View All Events** | **View Today’s Events** |  
 |----------------------|-------------------------|  
