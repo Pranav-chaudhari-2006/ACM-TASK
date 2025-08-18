@@ -20,6 +20,22 @@ Built using **Object-Oriented Programming (OOP)** and **file handling**, it’s 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+## 👨‍💻 Author
+
+**Pranav Chaudhari** – 2nd Year, PCCOE  
+Email: pranavchaudhari2006@gmail.com
+GitHub: [https://github.com/Pranav-chaudhari-2006](https://github.com/Pranav-chaudhari-2006)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## 🛠 Tech Stack
+
+- C++ (OOP & STL)  
+- File Handling (CSV storage)  
+- Standard C++ Libraries: iostream, fstream, vector, stack, map  
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 ## ✨ Features Implemented  
 
 - ✅ **Add Events** – Create new events with title, date, and time.  
