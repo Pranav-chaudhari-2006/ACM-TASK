@@ -82,7 +82,7 @@ You can view the full license text in the [LICENSE](./LICENSE) file.
 | 🗓️ View By Date | ![View By Date](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/a714a7db48091f6ac40f9d276023ab8ab3516aec/Screenshot%202025-08-18%20173642.png) |
 | 🔍 Search Event | ![Search Event](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/a714a7db48091f6ac40f9d276023ab8ab3516aec/Screenshot%202025-08-18%20173659.png) |
 | 📊 View Stats | ![View Stats](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/a714a7db48091f6ac40f9d276023ab8ab3516aec/Screenshot%202025-08-18%20173721.png) |
-| ↩️ Undo Last Operation | ![Undo last Operation](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/a714a7db48091f6ac40f9d276023ab8ab3516aec/Screenshot%202025-08-18%20173734.png) |
+| ↩️ Undo Last Operation(Advanced Feature)| ![Undo last Operation](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/a714a7db48091f6ac40f9d276023ab8ab3516aec/Screenshot%202025-08-18%20173734.png) |
 | ❌ Exit Application | ![Exit](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/a714a7db48091f6ac40f9d276023ab8ab3516aec/Screenshot%202025-08-18%20173743.png) |
 
 ---------------------------------------------------------------------------------------------------------------------------------
