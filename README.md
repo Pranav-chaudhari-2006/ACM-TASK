@@ -1,7 +1,7 @@
-# 🎯 Smart Event Manager (C++)
+# 🍉 Smart Event Manager (C++)
 
-![C++](https://img.shields.io/badge/language-C++-blue.svg)  
-![Platform](https://img.shields.io/badge/platform-CLI-lightgrey.svg)  
+![C++](https://img.shields.io/badge/language-C++-blue.svg)
+![Platform](https://img.shields.io/badge/platform-CLI-lightgrey.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
@@ -15,24 +15,26 @@ It provides:
 - Admin Authentication  
 - Undo for accidental actions  
 
-Designed with **OOP principles** and **file handling** for reliability and scalability.
+Designed with **OOP principles** and **file handling** for reliability and scalability.  
 
 ---
 
-## ✨ Features Implemented
+## ✨ Features Implemented  
+
 - ✅ **Add Events** – Create new events with title, date, and time.  
-- 📝 **Edit Events** – Update existing events easily.  
+- ✏️ **Edit Events** – Update existing events easily.  
 - ❌ **Delete Events** – Remove events you no longer need.  
 - 📋 **View All Events** – Display a clean list of scheduled events.  
-- 🔐 **Admin Authentication** – Secure access with login system.  
-- ⏪ **Undo Last Operation** – Quickly reverse accidental actions.  
+- 🔒 **Admin Authentication** – Secure access with login system.  
+- ↩️ **Undo Last Operation** – Quickly reverse accidental actions.  
 - ⏰ **Reminder Alerts** – Get notified of upcoming events.  
-- 🗂️ **File Handling** – Events are saved and loaded automatically.  
-- 🧩 **Modular & OOP Design** – Clean, structured, and extendable C++ code.  
+- 📂 **File Handling** – Events are saved and loaded automatically.  
+- 🛠 **Modular & OOP Design** – Clean, structured, and extendable C++ code.  
 
 ---
 
-## 🖥️ Sample CLI Usage  
+## 🖥 Sample CLI Usage  
+
 When you run the program, the main menu looks like this:  
 
 ```text
@@ -48,8 +50,8 @@ When you run the program, the main menu looks like this:
 9. View Statistics
 10. Undo Last Operation
 11. Exit
+==============================
 
-===============================
 Enter your choice: _
 Add Event
 > Enter choice: 1  
@@ -83,6 +85,7 @@ Undo last
 ↩️ Last action undone successfully!
 
 ===============================
+
 ## 🚀 How to Run the Project
 1. Clone the repository:
    ```bash
@@ -96,7 +99,8 @@ Undo last
 ===============================
 
 
------------------------------------------------------------------------------------------------------------------------------
+===============================
+
 ## 📜 License  
 
 This project is licensed under the terms of the **MIT License**.  
