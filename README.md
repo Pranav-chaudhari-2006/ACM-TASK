@@ -76,6 +76,7 @@ Undo last
 Below are sample screenshots for different operations of the **Smart Event Manager**:  
 
 ---
+ 
 ### 🟢 Add Event  
 <img src="https://github.com/user-attachments/assets/406dadea-792b-4c07-b076-8461cff2c666" width="350">  
 
@@ -121,3 +122,11 @@ Below are sample screenshots for different operations of the **Smart Event Manag
 
 ### 🚪 Exit Program  
 <img src="https://github.com/user-attachments/assets/48a21917-7fde-474a-83fc-ab5f652532a6" width="530">  
+
+
+----------------------------------------------------------------------------------------------------------------
+## 📜 License  
+
+This project is licensed under the terms of the **MIT License**.  
+
+You can view the full license text in the [LICENSE](./LICENSE) file.  
