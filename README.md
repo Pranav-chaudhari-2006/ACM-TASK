@@ -52,8 +52,18 @@ You can view the full license text in the [LICENSE](./LICENSE) file.
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## 📸 Preview
- ![Add Event](
-
+ ![Admin Access]()
+ ![Menu]()
+ ![Add Event](https://github.com/Pranav-chaudhari-2006/ACM-TASK/blob/59e861e9bb3ce634e324d5bc40a67d4f971edafa/Screenshot%202025-08-18%20173412.png)
+ ![Edit Event]()
+ ![Delete Event()
+ ![View All Events]()
+ ![View Today Events]()
+ ![View By Date]()
+ ![Search Event]()
+ ![View Stats]()
+ ![Undo last Operation]()
+ ![Exit]()
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## 🖥 Sample CLI Usage  
