@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-CLI-lightgrey.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
----
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## 📖 Overview  
 Smart Event Manager is a lightweight **Command-Line Application in C++** to manage personal and professional events.  
@@ -17,7 +17,7 @@ It provides:
 
 Designed with **OOP principles** and **file handling** for reliability and scalability.  
 
----
+--------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ Features Implemented  
 
@@ -31,7 +31,30 @@ Designed with **OOP principles** and **file handling** for reliability and scala
 - 📂 **File Handling** – Events are saved and loaded automatically.  
 - 🛠 **Modular & OOP Design** – Clean, structured, and extendable C++ code.  
 
----
+--------------------------------------------------------------------------------------------------------------------------------
+
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Pranav-chaudhari-2006/ACM-TASK.git
+   cd ACM-TASK
+2. Compile the program:
+   g++ smart_event_manager.cpp -o smart_event_manager
+3. Run the program:
+   ./smart_event_manager
+
+--------------------------------------------------------------------------------------------------------------------------------
+## 📜 License  
+
+This project is licensed under the terms of the **MIT License**.  
+
+You can view the full license text in the [LICENSE](./LICENSE) file.  
+--------------------------------------------------------------------------------------------------------------------------------
+
+## 📸 Preview
+ ![Add Event](
+
+---------------------------------------------------------------------------------------------------------------------------------
 
 ## 🖥 Sample CLI Usage  
 
@@ -83,28 +106,3 @@ ID | Title        | Date       | Time
 Undo last
 > Enter choice: 5  
 ↩️ Last action undone successfully!
-
----
-
-
-## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pranav-chaudhari-2006/ACM-TASK.git
-   cd ACM-TASK
-2. Compile the program:
-   g++ smart_event_manager.cpp -o smart_event_manager
-3. Run the program:
-   ./smart_event_manager
-
-===============================
-## 📸 Preview
-
-
-===============================
-
-## 📜 License  
-
-This project is licensed under the terms of the **MIT License**.  
-
-You can view the full license text in the [LICENSE](./LICENSE) file.  
