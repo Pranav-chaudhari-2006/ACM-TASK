@@ -24,8 +24,13 @@ When you run the program, the main menu looks like this:
 2. Edit Event
 3. Delete Event
 4. View All Events
-5. Undo Last Operation
-6. Exit
+5. View Today
+6. View by Date
+7. Search Event
+8. Send Reminders
+9. View Statistics
+10. Undo Last Operation
+11. Exit
 ===============================
 Enter your choice: _
 Add Event
@@ -76,52 +81,61 @@ Undo last
 Below are sample screenshots for different operations of the **Smart Event Manager**:  
 
 ---
- 
-### 🟢 Add Event  
-<img src="https://github.com/user-attachments/assets/406dadea-792b-4c07-b076-8461cff2c666" width="350">  
+ ### ADMIN ACCESS CHECK
+<img width="280" height="48" alt="image" src="https://github.com/user-attachments/assets/05e7168f-81d0-42c8-b430-fa7efb7ee74a" />
 
+---
+
+### 🟢 Add Event  
+<img width="380" height="465" alt="image" src="https://github.com/user-attachments/assets/0958fcb3-83c8-46cd-aac5-03895cbb9707" />
+ 
 ---
 
 ### ❌ Delete Event  
-<img src="https://github.com/user-attachments/assets/9516ed1a-6cdd-4a32-8765-2bbccfbac42c" width="300">  
-<img src="https://github.com/user-attachments/assets/ec4612b6-33f4-46ce-9016-3b9243bbefc3" width="600">  
-
+<img width="256" height="62" alt="image" src="https://github.com/user-attachments/assets/cfcb9a43-448a-4a65-b457-ad835924efca" />
+<img width="645" height="110" alt="image" src="https://github.com/user-attachments/assets/a0b4b481-1b3c-4f87-9bd5-d7444ece6499" />
+  
 ---
 
 ### 📋 View All Events  
-<img src="https://github.com/user-attachments/assets/2f4256d2-c5ef-4fc2-8180-fcdf2bdb95ba" width="750">  
-
+<img width="749" height="127" alt="image" src="https://github.com/user-attachments/assets/860022ab-7778-428c-8edd-77ac855ad3ed" />
+  
 ---
 
 ### 📅 View Today’s Events  
-<img src="https://github.com/user-attachments/assets/bb147799-1efc-4bf5-97ae-d5c43b1b46de" width="630">  
+<img width="634" height="88" alt="image" src="https://github.com/user-attachments/assets/1e6e11ab-0c72-4fd9-aeb9-51887f212283" />
+
 
 ---
 
 ### 📆 View Events by Date  
-<img src="https://github.com/user-attachments/assets/fc2a9989-21e7-4231-8070-f07d1c9ad675" width="620">  
+<img width="642" height="107" alt="image" src="https://github.com/user-attachments/assets/26991f4d-216c-4514-b013-dd7430401ff7" />
+ 
 
 ---
 
 ### 🔍 Search Event (by Name/Type)  
-<img src="https://github.com/user-attachments/assets/ec213518-77a2-4384-9322-3a130392b2f2" width="630">  
+<img width="629" height="86" alt="image" src="https://github.com/user-attachments/assets/281f222b-3a2a-485e-9d18-b5c36bb77d50" />
+ 
 
 ---
 
 ### 📊 View Statistics  
-<img src="https://github.com/user-attachments/assets/b9feb8fb-4416-4e51-ac08-176fbea84b07" width="380">  
+<img width="356" height="197" alt="image" src="https://github.com/user-attachments/assets/99940c50-e036-47a2-b757-1548643e6c1b" />
 
 ---
 
 ### ↩️ Undo Last Operation  
-<img src="https://github.com/user-attachments/assets/ec4612b6-33f4-46ce-9016-3b9243bbefc3" width="600">  
-<img src="https://github.com/user-attachments/assets/a32c80b7-9bdf-4592-bbc0-cb70b28a3724" width="330">  
-<img src="https://github.com/user-attachments/assets/49f125e8-d267-4e36-b70a-0bf37e410a12" width="730">  
+<img width="645" height="110" alt="image" src="https://github.com/user-attachments/assets/a0b4b481-1b3c-4f87-9bd5-d7444ece6499" />
+<img width="331" height="42" alt="image" src="https://github.com/user-attachments/assets/a5299e26-1fdd-4cda-a864-87e1b97ab89f" />
+<img width="747" height="124" alt="image" src="https://github.com/user-attachments/assets/6fa9ff56-ab1b-4432-8cb9-ee067a083da7" />
+
 
 ---
 
 ### 🚪 Exit Program  
-<img src="https://github.com/user-attachments/assets/48a21917-7fde-474a-83fc-ab5f652532a6" width="530">  
+<img width="531" height="86" alt="image" src="https://github.com/user-attachments/assets/8856abd8-7e76-4921-92cd-e3e32d9ca51c" />
+
 
 
 ----------------------------------------------------------------------------------------------------------------
