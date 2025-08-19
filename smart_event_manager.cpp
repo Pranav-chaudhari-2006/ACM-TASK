@@ -69,11 +69,11 @@ class EventManager
 {
 private:
     vector<Event> events;
-    const string filename = "events.csv"; // Operational File
+    const string filename = "events.csv"; 
 
     stack<vector<Event>> history; //  for Undo
 
-    // Check if a new/edited event conflicts by date+time
+    
     bool isConflict(const Event &newEvent)
     {
         for (auto &e : events)
@@ -88,7 +88,7 @@ private:
         return false;
     }
 
-    // Offer simple hourly free slots
+  
     void suggestTimeSlots(const string &date)
     {
         cout << "Suggested available slots (HH:MM):\n";
@@ -119,7 +119,7 @@ private:
         return regex_match(time, pattern);
     }
 
-    // Prevent duplicate ID, or exact same Name+Date+Time
+  
     bool isDuplicate(const Event &newEvent)
     {
         for (auto &e : events)
@@ -140,7 +140,7 @@ private:
         return false;
     }
 
-    // Save current vector snapshot before a mutating operation (for undo)
+
     void saveState()
     {
         history.push(events);
@@ -225,7 +225,7 @@ public:
             cout << "Event not found.\n";
     }
 
-    // Show all events
+   
     void viewAllEvents() const
     {
         if (events.empty())
@@ -239,7 +239,7 @@ public:
             e.display();
     }
 
-    // Show by specific date
+    
     void viewEventsByDate(const string &date) const
     {
         bool found = false;
@@ -258,13 +258,13 @@ public:
             cout << "No events found.\n";
     }
 
-    // Compute today in DD-MM-YYYY, then reuse viewEventsByDate
+    
     void viewTodayEvents() const
     {
-        time_t now = time(0);                  // time(0) returns the current time in seconds
-        tm *ltm = localtime(&now);             // Converting the time to localtime(ltm:stores valid format of dd-mm-yyyy)
-        char buffer[11];                       // buffer holds today's date as a string
-        strftime(buffer, 11, "%d-%m-%Y", ltm); // Format the tm struct into string
+        time_t now = time(0);               
+        tm *ltm = localtime(&now);            
+        char buffer[11];                       
+        strftime(buffer, 11, "%d-%m-%Y", ltm);
         viewEventsByDate(buffer);
     }
 
@@ -280,7 +280,7 @@ public:
             string type = e.getType();
             transform(name.begin(), name.end(), name.begin(), ::tolower);
             transform(type.begin(), type.end(), type.begin(), ::tolower);
-            if (name.find(keyword) != string::npos || type.find(keyword) != string::npos) // Npos is marker meaning not found
+            if (name.find(keyword) != string::npos || type.find(keyword) != string::npos) 
             {
                 if (!found)
                 {
@@ -538,4 +538,5 @@ int main()
     cout << "Thank you for using Smart Event Manager. Goodbye!\n";
     return 0;
 }
+
 
