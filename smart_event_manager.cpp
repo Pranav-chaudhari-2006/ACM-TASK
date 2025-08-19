@@ -538,3 +538,4 @@ int main()
     cout << "Thank you for using Smart Event Manager. Goodbye!\n";
     return 0;
 }
+
